@@ -1,10 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do
-
-## Write a short comment describing this function
-
-## Put comments here that give an overall description of what your
-## functions do
+## It create a cache matrix and cache the inverse matrix of this matrix
 
 ## Write a short comment describing this function
 ## This function creates a special "matrix" object that can cache its inverse.
